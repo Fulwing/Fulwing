@@ -69,54 +69,11 @@ I'm a passionate developer with experience in various technologies.
 
 In a bid to simplify student life transitions, I spearheaded the creation of a dynamic e-commerce platform using Java Spring Boot, Bootstrap, and Thymeleaf. Here's the essence of my journey:
 
-#### 🔧 Tech Marvels:
-
-- **Java Spring Boot, Bootstrap, Thymeleaf:** Crafted a seamless platform for buying and selling second-hand items.
-- **AWS Deployment with Docker + Jenkins CI/CD:** From ideation to deployment, I handled it all.
-- **Security Fortification:** Implemented Shiro and Spring Security, ensuring robust protection.
-- **Payment Security with Stripe:** Integrated secure payment gateways for seamless transactions.
-- **Efficient Project Management with Git:** Solely managed the project lifecycle, streamlining development.
-- **Linux System + Jenkins CI/CD:** Achieved a remarkable 99.9% server uptime for unparalleled reliability.
-- **User-Centric Design with Bootstrap and Thymeleaf:** Designed an intuitive interface, boosting user experience by 25%.
-- **Data Optimization with MySQL and MyBatis:** Reduced data access times by 20%, upholding integrity and security.
-
-#### 🌍 Meeting Needs, Simplifying Transitions:
-
-Recognizing the common dilemma of students moving, graduating, or simply wanting to buy or sell items, I undertook comprehensive market research. The platform is a one-stop solution for their second-hand needs, ensuring a seamless exchange experience.
-
-#### 🚀 Solo Venture, Collective Impact:
-
-From conceptualization to market research, development to deployment, this project was a solo endeavor. It's a testament to my commitment to addressing real-world challenges and making a positive impact on student life.
-
-**#EcommerceInnovator #TechForStudents #SustainableLiving #SecondHandMarketplace #SoloVenture**
-
 ### [JCWeathers - Real-Time Climate Insights](https://github.com/Fulwing/JCWeathers)
 
 🌦️ **Real-Time Climate Insights Creator!** 🌐
 
 As a self-driven innovator, I transformed my vision into reality by addressing a critical need: the absence of accurate local climate data. Here's a snapshot of my journey:
-
-#### 🛠️ Tech Stack:
-
-- **Spring Boot Backend, Thymeleaf, Bootstrap Frontend:** Engineered a seamless user experience.
-- **AWS Lambda, API Gateway, DynamoDB:** Established a resilient API infrastructure.
-- **Raspberry Pi Sensors + AWS IoT:** Placed sensors on the school's roof, connecting to AWS for real-time data.
-- **Maven + AWS EC2 Deployment:** Packed and deployed the website securely on AWS.
-- **HTTPS via Load Balancer:** Ensured secure connections on port 443.
-
-#### 🌐 Bridging Gaps, Empowering Access:
-
-Recognizing the 20-mile gap to the nearest climate station, I pioneered Raspberry Pi sensors on the school's roof, bringing accurate real-time data to a wider audience.
-
-#### 🌍 Impact:
-
-The website provides communities with real-time temperature updates, transcending geographical limitations for informed decision-making.
-
-#### 🚀 Solo Endeavor:
-
-From market research to implementation, this project showcases my dedication, technical prowess, and belief in turning challenges into opportunities.
-
-**#ClimateInnovator #TechForGood #RealTimeInsights #AWSWizardry #ClimateTech**
 
 ## 📊 GitHub Stats
 
