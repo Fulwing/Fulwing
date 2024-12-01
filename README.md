@@ -77,19 +77,19 @@ As a self-driven innovator, I transformed my vision into reality by addressing a
 
 ## 📊 GitHub Stats
 
-[![Fulwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulwin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Fulwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulwing&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fulwin&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fulwing&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/daniel-fulwin-0528031b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/zhengyuhanyan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielfulwin@gmail.com)
-[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=github&labelColor=black)](https://fulwin.github.io/)
+[![Website](https://img.shields.io/badge/Website-black?style=flat&logo=github&labelColor=black)](https://github.com/Fulwing)
 
 ## 📈 Activity Graph
 
-[![Fulwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fulwin&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fulwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fulwing&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏅 Certifications
 
