@@ -6,12 +6,12 @@
 
 I'm a passionate developer with experience in various technologies.
 
-- 🔭 I’m currently working on **AI Automation Website**
-- 🌱 I’m currently learning **AI**
+- 🔭 I’m currently working on **AI Automation Testing**
+- 🌱 I’m currently learning **AI and Web**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: [Email](mailto:danielfulwin@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Video Games!!!
+- ⚡ Fun fact: I love Video Games 🎮 and Guitar 🎸
 
 ## 🚀 Skills
 
