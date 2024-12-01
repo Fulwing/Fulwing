@@ -69,7 +69,7 @@ I'm a passionate developer with experience in various technologies.
 
 In a bid to simplify student life transitions, I spearheaded the creation of a dynamic e-commerce platform using Java Spring Boot, Bootstrap, and Thymeleaf. Here's the essence of my journey:
 
-### [JCWeathers - Real-Time Climate Insights](https://github.com/Fulwing/JCWeathers)
+### [JCWeathers - Real-Time Climate Insights](https://github.com/Fulwing/Weather)
 
 🌦️ **Real-Time Climate Insights Creator!** 🌐
 
