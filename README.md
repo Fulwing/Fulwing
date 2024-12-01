@@ -1,6 +1,6 @@
 # Hi there, I'm Fulwin 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Fulwin&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Fulwing&color=blue)
 
 ## About Me
 
